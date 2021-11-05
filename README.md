@@ -38,6 +38,10 @@ The notes from such discussions are available at [user-interviews](./user-interv
 If you are a SRE/DevOps engineer/manager practicing chaos engineering in your organization OR a contributor/maintainer of a chaos project, we'd love to hear your 
 story. 
 
+## Survey
+
+You can also participate in this [survey](https://docs.google.com/forms/d/1PbdSH8PEKfdpAJeVV60m2G_kCcuxpN0cjgIYQs-W5ig/edit) to share information about your chaos practice
+or to simply state your opinions about chaos engineering. 
 
 ## KubeCon Digest
 
