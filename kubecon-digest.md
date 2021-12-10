@@ -11,6 +11,7 @@ KubeCon EU'21|   [Putting Chaos into Continuous Delivery To Increase Application
 KubeCon EU'21|   [TAGApp Delivery Update on Chaos Engineering](https://youtu.be/74VpVe-pZx0?t=1481)
 KubeCon EU'21|   [Power Level 9000! Improving Application Performance with Chaos Engineering](https://youtu.be/btGFt5-37hs?t=4)
 KubeCon EU'19|   [BoF Deep Dive: Chaos Engineering](https://www.youtube.com/watch?v=Qus15C5vT5Y)
+KubeCon EU'19|   [Transparent Chaos Testing with Envoy, Cilium and BPF](https://www.youtube.com/watch?v=gPvl2NDIWzY)
 KubeCon NA'18|   [BoF Intro: Chaos Engineering](https://www.youtube.com/watch?v=Tk7SGigV7U0)
 
 
